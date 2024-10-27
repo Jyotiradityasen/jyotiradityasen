@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyotiraditya Sen</h1>
 <h3 align="center">Dreamer and Developer from India</h3>
 
-- 🔭 I’m currently working on **Esg Source 3 emmision**
+- 🔭 I’m currently working on **ESG Source 3 emmision**
 
 - 🌱 I’m currently learning **Java,Python,C++ and React**
 
